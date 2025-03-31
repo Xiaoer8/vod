@@ -574,39 +574,8 @@
         }
       }
     },
-        {
-            "key": "php_madou",
-            "name": "🔞 麻豆",
-            "type": 4,
-            "api": "https://json.doube.eu.org/madou.php",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-          }
-        },
-        {
-            "key": "py_aidouchuanmei",
-            "name": "🔞 爱豆传媒",
-            "type": 4,
-            "api": "https://py.doube.eu.org/api?site=aidouchuanmei",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },  
-        {
-            "name": "jsonplayer",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
+       
+        
         {
             "name": "xmflv",
             "type": 0,
