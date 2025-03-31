@@ -20,6 +20,7 @@
       "playerType": "1",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
+   ],
     "parses": [
         {
             "name": "解析聚合",
@@ -91,7 +92,6 @@
                 "video/tos/cn"
             ]
         }
-    ],
     "doh": [
         {
             "name": "Google",
