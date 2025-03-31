@@ -43,22 +43,6 @@
             "url": "https://jx.xmflv.com/?url="
         }
     ],
-    "flags": [
-        "youku",
-        "tudou",
-        "qq",
-        "qiyi",
-        "iqiyi",
-        "leshi",
-        "letv",
-        "sohu",
-        "imgo",
-        "mgtv",
-        "bilibili",
-        "pptv",
-        "PPTV",
-        "migu"
-    ],
     "rules": [
         {
             "name": "proxy",
@@ -79,6 +63,7 @@
                 ".*ulivetv.*"
             ]
         },
+     ],
             "regex": [
                 "is_play_url="
             ]
