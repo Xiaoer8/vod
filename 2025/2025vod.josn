@@ -2,6 +2,23 @@
     "spider": "./fm.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
+{
+			"key": "豆豆",
+			"name": "大叔┃欢迎观看 请注意不要熬夜哦！",
+			"type": 3,
+			"api": "csp_DoubanGuard",
+			"searchable": 0
+		},
+				"url_key": "Netfixtv",
+				"token": "",
+				"ucCookie": "",
+				"quarkCookie": "",
+				"threadinfo": {
+					"chunksize": 400,
+					"threads": 12
+				}
+			}
+		},
 
 {
       "key": "荐片",
