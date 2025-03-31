@@ -225,56 +225,5 @@
     "ads": [
         "static-mozai.4gtv.tv",
         "s3t3d2y8.afcdn.net"
-    ],
-    "lives": [
-          {
-            "name": "Asian TV",
-            "url": "https://www.stream-link.org/stream-link.m3u"
-        },
-         {
-            "name": "Anbox118",
-            "url": "https://anbox118.serv00.net/mytvbplus.php"
-        },
-        {
-            "name": "网剧独播",
-            "url": "http://zhangqun66.xyz/zh/网剧独播.txt"
-        },
-        {
-            "name": "直播爬虫",
-            "type": 3,
-            "api": "https://tang.hz.cz/js/ethtv.js",
-            "ext": ""
-        },
-        {
-            "name": "谍工看片社",
-            "url": "http://zhangqun66.xyz/zh/谍工看片社.txt"
-        },
-        {
-            "name": "谍影剧场",
-            "url": "http://zhangqun66.xyz/zh/谍影剧场.txt"
-        },
-        {
-            "name": "百家讲坛",
-            "url": "http://zhangqun66.xyz/zh/百家讲坛.txt"
-        },
-        {
-            "name": "政治时事",
-            "url": "http://zhangqun66.xyz/141.php"
-        },
-        {
-            "name": "野火直播",
-            "url": "./野火改.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "安博",
-            "url": "https://tang.hz.cz/zb/anbo?token=09759777",
-            "ua": "okhttp/4.12.0"
-        }
-         
-      
-    ]
-  
-    
+    ]   
 }
