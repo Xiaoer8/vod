@@ -20,7 +20,28 @@
       "playerType": "1",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
-],
+"parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "777",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "jsonplayer",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+    ],
     "flags": [
         "youku",
         "tudou",
