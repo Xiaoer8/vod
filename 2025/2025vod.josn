@@ -453,92 +453,118 @@
       "filterable": 1,
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=影搜"
     },
-    {
-      "key": "豆豆飞搜索",
-      "name": "🫘豆豆┃搜索┃纯净",
+   {
+      "key": "csp_FeiMaoUC",
+      "name": "⚡┃闪电┃优汐",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_Duopan",
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=豆豆搜.php"
-    },
-    {
-      "key": "找資源",
-      "name": "🐺找zy┃搜索┃弹幕",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
+        "site_urls": [
+          "http://1.95.79.193/"
+        ],
+        "url_key": "FeiMaoUC"
+      }
     },
     {
-      "key": "csp_QuPanSou",
-      "name": "🤓趣盘┃搜索┃弹幕",
+      "key": "csp_Duopan",
+      "name": "🖍︎┃蜡笔┃影视",
       "type": 3,
-      "api": "csp_QuPanSou",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
+      "api": "csp_Duopan",
       "filterable": 1,
-      "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
+        "site_urls": [
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs"
+        ],
+        "url_key": "Duopan2"
+      }
     },
     {
-      "key": "csp_Qkpanso",
-      "name": "🐚夸克┃搜索┃弹幕",
+      "key": "潮流",
+      "name": "🏜┃潮流┃影视",
       "type": 3,
-      "api": "csp_Qkpanso",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },
+    {
+      "key": "梦回",
+      "name": "🏈┃梦回┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+    },
+    {
+      "key": "星辉",
+      "name": "🦢┃星辉┃影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "✨️️┃流光┃影视",
+      "type": 3,
+      "api": "csp_Lgyy"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🥇️┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "🌾️┃农民┃影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "csp_Siren",
+      "name": "🎉️┃私人┃影城",
+      "type": 3,
+      "api": "csp_Siren"
+    },
+    {
+      "key": "csp_XMUC",
+      "name": "🍚┃小米┃UC",
+      "type": 3,
+      "api": "csp_Duopan",
       "filterable": 1,
-      "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
+        "site_urls": [
+          "http://www.mucpan.cc",
+          "https://milvdou.fun",
+          "https://54271.fun"
+        ],
+        "url_key": "XMUC"
+      }
     },
     {
-      "key": "csp_AiPanSou",
-      "name": "🥰爱盘┃搜索┃弹幕",
+      "key": "csp_Netfixtv",
+      "name": "💌┃️至臻┃影视",
       "type": 3,
-      "api": "csp_AiPanSou",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
+      "api": "csp_Duopan",
       "filterable": 1,
-      "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
-    },
-    {
-      "key": "云盘4K",
-      "name": "🤖云盘┃搜索┃弹幕",
-      "type": 3,
-      "api": "csp_Yunpan4k",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
+        "site_urls": [
+          "http://xiaomi666.fun",
+          "https://xiaomiai.site",
+          "http://www.miqk.cc",
+          "https://mihdr.top"
+        ],
+        "url_key": "Netfixtv2",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      }
     },
         {
             "key": "php_madou",
