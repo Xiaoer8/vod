@@ -48,11 +48,7 @@
 {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1Guard","searchable": 1,"quickSearch": 1,"changeable":1},
 
-        {
-            "name": "xmflv",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        }
+        
     ],
     "flags": [
         "youku",
@@ -91,15 +87,6 @@
             ]
         },
        
-        {
-            "name": "抖音嗅探",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
-        },
         {
             "name": "農民嗅探",
             "hosts": [
