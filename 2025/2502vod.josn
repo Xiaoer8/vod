@@ -7,7 +7,8 @@
      "type": 3,
      "api": "csp_DoubanGuard",
      "searchable": 0
-    },			
+    },	
+{"key":"豆","name":"影视【王大叔的节目】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
     {
       "key": "荐片纯净",
       "name": "👍️荐片┃蓝光┃纯净",
