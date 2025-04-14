@@ -1,8 +1,7 @@
 {
-  "spider": "./spider.jar;",
+    "spider": "./spider.jar;",
     "wallpaper": "http://3650000.xyz/api/360.php?cid=26",
     "logo": "https://vip.wosvip.com/yl/gg/LOGO2.gif",
-  "warningText": "【大叔】提醒您！畅看影视也别忘了休息哟",
   "lives": [
     {
       "name": "LIVE",
