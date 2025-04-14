@@ -20,7 +20,17 @@
       "playerType": "1",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
-
+{
+      "key": "新6V",
+      "name": "🔦4K自营|零度",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "jar": "./lib/pg.jar;",
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+    },
 
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
